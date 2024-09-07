@@ -16,7 +16,7 @@ This is a data analysis project that aims at giving insight on the top 10 countr
 
 ### Data sources
 
-Kaggle, Covid-19 dataset : The primary dataset used for this analysis is 'country_wise_latest.csv' file this dataset contains information on covid-19 cases based on countries.
+Covid-19 dataset : The primary dataset used for this analysis is 'country_wise_latest.csv' file this dataset contains information on covid-19 cases based on countries.
 
 ### Tools
 
